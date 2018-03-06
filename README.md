@@ -52,7 +52,7 @@ Please note: I'm not providing regular support and/or updates at moment, sorry!
  
 If you like this theme and helps you to build your blog, you can give me a cup of coffee or a good pint :)
  
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3VN8XQDUQV66Y)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MZG7FYSS6S35Q)
  
 --------------------------------------
  
